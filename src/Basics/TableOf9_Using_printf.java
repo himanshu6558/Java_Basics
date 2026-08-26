@@ -1,3 +1,5 @@
+package Basics;
+
 public class TableOf9_Using_printf {
     public static void main(String[] args) {
         int num = 9;

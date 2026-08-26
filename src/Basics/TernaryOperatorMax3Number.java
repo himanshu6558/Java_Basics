@@ -1,3 +1,5 @@
+package Basics;
+
 public class TernaryOperatorMax3Number {
     public static void main(String[] args) {
         int a = 1000;
